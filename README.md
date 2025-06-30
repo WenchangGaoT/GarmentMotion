@@ -5,7 +5,7 @@
 
 ## Motion Generation
 
-- ArXiv 2025, **MotionStreamer**: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, [arXiv](https://arxiv.org/pdf/2503.15451)
+- ICCV 2025, **MotionStreamer**: Streaming Motion Generation via Diffusion-based Autoregressive Model in Causal Latent Space, [arXiv](https://arxiv.org/pdf/2503.15451)
 
 - ICLR 2025, **CLoSD**: Closing the Loop between Simulation and Diffusion for multi-task character control, [arXiv](https://guytevet.github.io/CLoSD-page/)
 
